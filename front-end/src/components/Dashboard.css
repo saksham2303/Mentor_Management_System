@@ -1,0 +1,50 @@
+
+  .navbar-customm{
+    height:70px;
+    
+     
+
+  }
+
+.dashboard__control{
+    display: flex;
+    flex:auto;
+    align-items: center;
+    width: 100%;
+    justify-content:space-between;
+    margin-right:30px;
+}
+  .dashboard__title a{
+      color: #ffffff;
+      font-size: 26px;
+      font-weight: bolder;
+      margin-left: 20px;
+
+  }
+
+  .dashboard__name a{
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-right: 26px;
+    
+    
+    
+    
+}
+.dashboard__name{
+    display: flex;    
+}
+
+.dashboard__name a:hover{
+    color:white;
+    text-decoration: none;
+}
+.dashboard__title a:hover{
+    color:white;
+    text-decoration: none;
+}
+.navbar__position{
+  position: fixed;
+  width: 100%;
+}

@@ -1,0 +1,52 @@
+.home {
+   
+    padding-left: 290px;
+    
+}
+.user__details{
+    display: flex;
+    width: 100%;
+    min-width: 500px;
+    margin-top: 100px;
+    
+    
+}
+#user__name{
+    text-align: center;
+    padding: 50px;
+    width: 350px;
+    margin: 20px;
+    
+    color: white;
+    border-radius: 15px;
+    
+}
+#user__type{
+    background-color: red;
+    text-align: center;
+    padding: 50px;
+    width: 350px;
+    margin: 20px;
+    color: white;
+    border-radius: 15px;
+}
+#user__mentor{
+    background-color: yellow;
+    text-align: center;
+    padding: 50px;
+    width: 350px;
+    margin: 20px;
+    color: white;
+    border-radius: 15px;
+    
+}
+
+@media (max-width: 1100px) {
+    
+    .user__details {
+        
+        flex-direction: column;
+      
+      
+    }
+  }

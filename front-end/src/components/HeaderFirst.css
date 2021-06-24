@@ -1,0 +1,95 @@
+.Login a{
+  
+    color:white;
+    text-decoration: none;
+  }
+  span > a{
+    text-decoration: none;
+    color:white;
+  }
+  .Logins a{
+    margin-right:20px;
+    color:white;
+    
+    
+    text-decoration: none;
+  }
+  .Logins a{
+  
+    border-radius: 6px;
+    width:100%;
+    
+  }
+  .Login a{
+    border-radius: 6px;
+   
+    width:100%;
+    
+    
+   }
+   .Login a:hover{
+    background-color: rgba(255, 255, 255, 0.652);
+   }
+   .Logins a:hover{
+    background-color: rgba(255, 255, 255, 0.652);
+   }
+   .Logo{
+    margin-left: 90px;
+    
+  }
+  .mask{
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.727);
+    
+  }
+  
+  
+  
+   .mask pre, h1 {
+     color:whitesmoke;
+     width:100%;
+     text-align: center;
+     
+    
+    
+   }
+   .mask h1{
+    padding-top:200px;
+    
+   }
+   .mask pre{
+    
+    font-family: 'Kiwi Maru', serif;
+   }
+   
+   .mask a:hover{
+    text-decoration: none;
+    color:black;
+   }
+   .mask{
+     padding-bottom:100px;
+    
+   }
+   .navbar-custom{
+    height:70px;
+  }
+  span{
+    color:white;
+  }
+  .Login a {
+    background-color: white;
+    color: black;
+
+  }
+  .Login a:hover{
+    background-color: white;
+    box-shadow: 0 8px 6px -6px black;
+  }
+  .Logins a {
+    background-color: white;
+    color: black;
+  }
+  .Logins a:hover{
+    background-color: white;
+    box-shadow: 0 8px 6px -6px black;
+  }

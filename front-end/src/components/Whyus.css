@@ -1,0 +1,45 @@
+.Valid{
+    display:flex;
+    width: 100%;
+    
+  }
+  .fValid{
+    display:flex;
+    width: 100%;
+    
+  }
+  
+  .easy{
+    font-family: 'Kiwi Maru', serif;
+    flex: auto;
+    width: 100%;
+  }
+  .secured{
+    font-family: 'Kiwi Maru', serif;
+    flex: auto;
+    width: 100%;
+    margin-bottom: 80px;
+  }
+  .prog{
+    font-family: 'Kiwi Maru', serif;
+    flex: auto;
+    width: 100%;
+  }
+  .info{
+    padding-bottom: 300px;
+  }
+  .Valid{
+    padding-top:50px;
+  }
+  .Valid img{
+    width:75%;
+  }
+  .secured{
+    padding-left: 80px ;
+  }
+  .info h1{
+    color:rgba(128, 128, 128, 0.801);
+    font-family: 'Kiwi Maru', serif;
+    margin-top: 70px;
+    font-weight: bolder;
+  }

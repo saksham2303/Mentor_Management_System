@@ -1,0 +1,48 @@
+.announcements {
+    margin-left: 250px;
+    margin-top: 60px;
+    width: 100%;
+    display: flex;
+    
+    flex-direction: column;
+    margin-right:-100px;
+}
+.announcements textarea{
+    overflow: auto;
+    height:50px;
+    position: relative;
+    width:1130px;
+    /* border: 1px solid black; */
+    border: none;
+    box-shadow: 1px 2px 3px 4px whitesmoke;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    margin-top:480px;
+    
+    
+}
+
+.view__announcements {
+    margin-top: 60px; 
+    position: absolute;
+    width:1130px;
+    height:450px;
+    overflow: auto;
+    max-height: 450px;
+    /* border: 1px solid black; */
+    box-shadow: 1px 2px 3px 4px whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+}
+/* .discussion form{
+    display: flex;
+    
+} */
+
+.wonder{
+    width:100px;
+    float: left;
+    
+    margin-right:10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,18 @@
+
+.MainContent{
+  background-image: url("./components/images/work-from-home.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
+  font-family: 'Kiwi Maru', serif;
+}
+*{
+  scroll-behavior: smooth;
+}
+
+
+
+ 
+
+
+
